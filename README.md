@@ -35,6 +35,20 @@ React, Firebase
 
 **React** : v18.0.0
 
+---
+
+## React .env configuration
+
+In **development** it is necessary to have the following configuration in the **.env** file:
+
+```env
+{
+    REACT_APP_FIREBASE_URL=FIREBASE_URL
+}
+```
+
+---
+
 ![1](https://user-images.githubusercontent.com/57587904/251154099-6d2d5699-300d-46ed-ac6e-cf6f650b372d.png)
 ![2](https://user-images.githubusercontent.com/57587904/251154108-396dca19-3e53-47ac-adf1-5294b3e2934c.png)
 ![3](https://user-images.githubusercontent.com/57587904/251154126-f97ee464-12c5-4ee1-a2cf-8b426cb4dc6d.png)
